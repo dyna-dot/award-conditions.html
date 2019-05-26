@@ -1,0 +1,35 @@
+rfcindex (1.06)
+
+  * Changed .inv { font-size: 0pt; } to { display: none; }
+
+ -- Henrik Levkowetz <henrik@levkowetz.com>  02 Aug 2006 2:56:33 +0200
+
+rfcindex (1.05)
+
+  * Changed rfc url from "/tools/rfcmarkup/rfcmarkup.cgi?rfc=$number" to 
+    "/html/rfc$number"
+
+ -- Henrik Levkowetz <henrik@levkowetz.com>  13 Jul 2006 17:29:40 +0200
+
+rfcindex (1.04)
+
+  * Added markup and style rules to present a yellow ruler showing the current
+    line, for easier line-up of cursor and most significant digits of RFC number.
+
+  * Added in 0pt size the most significant digits of the rfc number, enabling
+    the index page for an rfc number
+
+ -- Henrik Levkowetz 29 Oct 2005 3:31:53 +0200
+
+rfcindex (1.03)
+
+  * Adapted make-mini-index to use on tools.ietf.org.  Included lefthand
+    menubar with other tools, did some style changes, added blank line every
+    1000 RFCs, added link to tools page for download etc.
+
+ -- Henrik Levkowetz  27 Oct 2005 11:02:39 +0200
+
+rfcindex (1.02)
+
+  * Received from Simon Leinen with permission to use on tools.ietf.org.
+    Somewhat arbitrarily given version number 1.02.
